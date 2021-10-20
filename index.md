@@ -1,5 +1,3 @@
-## Kennedy Buluma
-
 Hello! I'm a tech enthusiast and a software developer.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
